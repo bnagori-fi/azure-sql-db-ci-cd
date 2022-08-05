@@ -12,7 +12,7 @@ description: "Azure SQL Database CI/CD Pipeline with GitHub Actions"
 urlFragment: "azure-sql-db-ci-cd"
 ---
 
-# Azure SQL Database CI/CD Pipeline with GitHub Actions
+# Azure SQL Database CI/CD Pipeline with GitHub Actions - New
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
